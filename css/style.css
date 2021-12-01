@@ -118,6 +118,14 @@ body {
   margin-top: 0;
   display: inline-block;
 }
+
+.main-button:hover {
+    opacity: 0.8;
+}
+
+.main-button:active {
+    opacity: 0.6;
+}
 .hero-img {
   margin-top: 114px;
 }
